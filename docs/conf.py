@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Canon User Help'
+project = 'My Bytes Help'
 copyright = '2025'
-author = 'Kate Grenville'
+author = 'Brigid Berlin'
 
 release = '1.0'
 
