@@ -7,7 +7,7 @@ If you’re looking to **download Malwarebytes if I already bought it** or wonde
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskmalwarebytes.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Malwarebytes</a>
+       <a href="https://malwarebytesdesk.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Malwarebytes</a>
    </div>
 
 Once you purchase Malwarebytes Premium, your license key gives you access to all premium features, including real-time protection, automatic updates, and scheduled scans. If you’ve switched devices or reinstalled Windows, you can easily restore your protection using the same key. Let’s go through the process step by step.
